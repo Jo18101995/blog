@@ -1,0 +1,80 @@
+#header {
+  background-image: url("https://images.pexels.com/photos/1000445/pexels-photo-1000445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  padding: 250px;
+  margin: 40px;
+
+}
+
+h1{
+  font-size: 40px;
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  text-decoration: underline;
+  text-align:left;
+  margin-top: -150px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 30px;
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  text-align: center;
+  margin-top: -90px;
+}
+
+.btn {
+  margin-top: -30px;
+  margin-bottom: -10px;
+}
+
+.feature {
+  margin: 20px;
+  text-align: center;
+  font-family: 'Arvo', serif;
+  color: black;
+
+}
+
+.picture {
+  width: 330px;
+  height: 220px;
+}
+
+.centre {
+  text-align: center;
+
+}
+h3 {
+  font-size: 50px;
+  color: #0B4F6C;
+  text-align: center;
+}
+h2 {
+  font-size: 20px;
+  color: black;
+  text-align: center;
+}
+
+a {
+  color: black;
+  font-family: 'Arvo', serif;
+  text-align: center;
+}
+
+a:hover {
+  font-weight: bolder;
+  color: black;
+}
+
+.opacity1 {
+  opacity: 1;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+.opacity1:hover {
+  opacity: .5;
+}
+
